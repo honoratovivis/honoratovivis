@@ -1,6 +1,6 @@
 ### Olá eu sou a Viviane Honorato, mas pode me chamar de Vivis !
 
-
+- 🌱 Estudando sobre SpringBoot e BD
 - 🌱 Estudando sobre ReactJS e TypeScript
 - 🔭 Estagiária no Núcleo de Tecnologias Estratégicas em Saúde (NUTES) - Trabalhando como QA (Cypress)
 
