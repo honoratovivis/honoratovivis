@@ -7,7 +7,7 @@
 
 ##
 
-<div align="center" style="display: inline_block">
+<div align="left" style="display: inline_block">
   <a href="https://github.com/honoratovivis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=honoratovivis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honoratovivis&layout=compact&langs_count=7&theme=dracula"/>
@@ -25,7 +25,7 @@
   
   ##
   
-<div align="left"> 
+<div align="center"> 
   <a href = "mailto:vivianehonorato.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/viviane-silva-honorato-799520182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
