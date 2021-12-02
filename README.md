@@ -2,7 +2,7 @@
 
 - 🌱 Estudando sobre SpringBoot e BD
 - 🌱 Estudando sobre ReactJS e TypeScript
-- 🔭 Estagiária no Núcleo de Tecnologias Estratégicas em Saúde (NUTES) - Trabalhando como QA (Cypress)
+- 🔭 Analista de Sistemas Pleno na Accenture
 
 
 ##
